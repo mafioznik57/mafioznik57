@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Yerassyl 👋
 
-<!--
-**mafioznik57/mafioznik57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Data Analyst & SQL Enthusiast**
 
-Here are some ideas to get you started:
+🎓 Final-year Information Systems student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Passionate about turning raw data into actionable insights
+
+🔍 Skilled in data analysis, database querying, and reporting
+
+### Tech Stack
+
+* SQL (JOINs, CTEs, Window Functions)
+* PostgreSQL
+* Python (Pandas, NumPy)
+* Excel
+* Data Visualization
+* REST APIs & JSON
+
+### What I Do
+
+* Analyze and clean datasets
+* Write efficient SQL queries
+* Build reports and dashboards
+* Extract insights from business data
+
+### Currently Learning
+
+* Advanced Data Analytics
+* Machine Learning
+* Data Visualization
+
+📫 Open to internships and junior Data Analyst opportunities.
